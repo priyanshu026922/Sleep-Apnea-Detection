@@ -142,8 +142,7 @@ Evaluated using 5-fold stratified cross-validation:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/apnea-ecg-prediction
-cd apnea-ecg-prediction
+git clone https://github.com/priyanshu026922/Sleep-Apnea-Detection.git
 ```
 
 ### 2. Install dependencies
